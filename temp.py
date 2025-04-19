@@ -1,3 +1,4 @@
+# 16-April-2025
 # # x = 10 int
 # # y = 12.3 float
 # # flag = True/False bool
@@ -111,6 +112,9 @@ print( x is y)
 # print( 8 in li)
 
 # true_value if condition else false_value
+
+
+# 17-April-2025
 
 
 # flow control 
